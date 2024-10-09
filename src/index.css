@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  body {
+    background: linear-gradient(to right, rgb(15, 23, 42), rgb(95, 26, 148), rgb(15, 23, 42));
+
+      -webkit-text-size-adjust: 100%; /* For WebKit/Blink browsers */
+      text-size-adjust: 100%; /* Standard property for other browsers */
+
+  
+  }
+}
