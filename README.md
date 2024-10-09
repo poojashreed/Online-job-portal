@@ -1,4 +1,6 @@
-# React + Vite
+# Job Portal (React + Vite)
+
+Built Job Portal using ReactJS, Tailwind CSS and Firebase.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
